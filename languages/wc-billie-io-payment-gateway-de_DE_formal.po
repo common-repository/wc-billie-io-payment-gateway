@@ -1,0 +1,233 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Billie.io WooCommerce Payment Gateway\n"
+"POT-Creation-Date: 2019-12-22 19:19+0100\n"
+"PO-Revision-Date: 2019-12-22 19:39+0100\n"
+"Last-Translator: \n"
+"Language-Team: mlfactory\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: billie-io-payment-gateway.php:83
+msgid "Billie.io Gateway"
+msgstr ""
+
+#: billie-io-payment-gateway.php:84
+msgid "Allow your customers to pay via Billie.io."
+msgstr "Erlaubt Ihren Kunden via Billio.io zu bezahlen."
+
+#: billie-io-payment-gateway.php:183 billie-io-payment-gateway.php:184
+msgid " "
+msgstr ""
+
+#: billie-io-payment-gateway.php:187
+msgid "Private person"
+msgstr "Privatperson"
+
+#: billie-io-payment-gateway.php:188
+msgid "Company"
+msgstr "Firma / Unternehmen"
+
+#: billie-io-payment-gateway.php:222
+msgid "Street name"
+msgstr "Straßenname"
+
+#: billie-io-payment-gateway.php:234 billie-io-payment-gateway.php:235
+#: billie-io-payment-gateway.php:242 billie-io-payment-gateway.php:243
+msgid "House Number"
+msgstr "Hausnummer"
+
+#: billie-io-payment-gateway.php:303
+msgid "successfully paid"
+msgstr "erfolgreich bezahlt"
+
+#: billie-io-payment-gateway.php:308
+msgid "Payment via Billie.io"
+msgstr "Zahlung via Billie.io"
+
+#: billie-io-payment-gateway.php:310 billie-io-payment-gateway.php:775
+#: billie-io-payment-gateway.php:791
+msgid "Status"
+msgstr "Status"
+
+#: billie-io-payment-gateway.php:311 billie-io-payment-gateway.php:791
+msgid "Date/Time"
+msgstr "Status"
+
+#: billie-io-payment-gateway.php:311
+msgid "at"
+msgstr "am"
+
+#: billie-io-payment-gateway.php:326
+msgid "Enable/Disable"
+msgstr "Aktivieren/Deaktivieren"
+
+#: billie-io-payment-gateway.php:327
+msgid "Enable Billie.io Gateway"
+msgstr "Billie.io Gateway aktivieren"
+
+#: billie-io-payment-gateway.php:333
+msgid "Title"
+msgstr "Titel"
+
+#: billie-io-payment-gateway.php:335
+msgid "This controls the title which the user sees during checkout."
+msgstr "Hier können Sie den Titel bearbeiten den der Kunde im Checkout sieht."
+
+#: billie-io-payment-gateway.php:336
+msgid "Billie.io - Purchase on invoice"
+msgstr "Billie.io - Kauf auf Rechnung"
+
+#: billie-io-payment-gateway.php:340
+msgid "Description"
+msgstr "Beschreibung"
+
+#: billie-io-payment-gateway.php:342
+msgid "This controls the description which the user sees during checkout."
+msgstr ""
+"Hier können Sie die Beschreibung bearbeiten den der Kunde im Checkout sieht."
+
+#: billie-io-payment-gateway.php:343
+msgid ""
+"Pay comfortably after receiving the goods. Variable period 30-60-120 days."
+msgstr ""
+"Bezahlen Sie beqem nach Erhalt der Ware. Wählbar zwischen 30-60 und 120 "
+"Tagen."
+
+#: billie-io-payment-gateway.php:346
+msgid "Test Modus"
+msgstr "Test Modus"
+
+#: billie-io-payment-gateway.php:347
+msgid "Enable Test Mode"
+msgstr "Test Modus aktivieren"
+
+#: billie-io-payment-gateway.php:349
+msgid "Place the payment gateway in test mode using test API keys."
+msgstr ""
+"Bringen Sie das Zahlungsgateway mit Hilfe von Test-API-Schlüsseln in den "
+"Testmodus."
+
+#: billie-io-payment-gateway.php:354
+msgid "Client ID"
+msgstr "Client ID"
+
+#: billie-io-payment-gateway.php:358
+msgid "Client Secret"
+msgstr "Client Secret"
+
+#: billie-io-payment-gateway.php:369
+msgid ""
+"TEST MODE ACTIVATED. No payments are really executed. If you want to execute "
+"payments, please deactivate the test mode."
+msgstr ""
+"TESTMODUS AKTIVIERT. Es werden keine Zahlungen wirklich ausgeführt. Wenn Sie "
+"Zahlungen ausführen wollen, deaktivieren Sie bitte den Testmodus."
+
+#: billie-io-payment-gateway.php:381
+msgid "When do you intend to settle the amount?"
+msgstr "Wann wollen Sie den Betrag zu begleichen?"
+
+#: billie-io-payment-gateway.php:383
+msgid "in 30 Days"
+msgstr "in 30 Tagen"
+
+#: billie-io-payment-gateway.php:384
+msgid "in 60 Days"
+msgstr "in 60 Tagen"
+
+#: billie-io-payment-gateway.php:385
+msgid "in 120 Days"
+msgstr "in 120 Tagen"
+
+#: billie-io-payment-gateway.php:515
+msgid "Please select whether you are a private person or a company."
+msgstr ""
+"Bitte wählen Sie aus ob Sie eine Privatperson sind oder ein Unternehmen."
+
+#: billie-io-payment-gateway.php:518
+msgid "House Number is required!"
+msgstr "Hausnummer ist ein Pflichtfeld!"
+
+#: billie-io-payment-gateway.php:541
+msgid ""
+"Unfortunately an error has occurred: There is no Client ID defined in the "
+"settings"
+msgstr ""
+"Leider ist ein Fehler aufgetreten: Es ist keine Client-ID in den "
+"Einstellungen definiert"
+
+#: billie-io-payment-gateway.php:546
+msgid ""
+"Unfortunately an error has occurred: There is no Client Secret value defined "
+"in the settings!"
+msgstr ""
+"Leider ist ein Fehler aufgetreten: In den Einstellungen ist kein Client-"
+"Secret-Wert definiert!"
+
+#: billie-io-payment-gateway.php:586
+msgid ""
+"Unfortunately an error has occurred in the communication with the payment "
+"server:"
+msgstr ""
+"Leider ist ein Fehler in der Kommunikation mit dem Zahlungsserver "
+"aufgetreten:"
+
+#: billie-io-payment-gateway.php:767
+msgid "at "
+msgstr "am "
+
+#: billie-io-payment-gateway.php:773
+msgid ""
+"The payment via Billie.io was <b>not</b> successful.<br />You cannot use "
+"this payment method for this purchase."
+msgstr ""
+"Die Zahlung über Billie.io war <b>nicht</b> erfolgreich.<br />Sie können "
+"diese Zahlungsmethode nicht für diesen Kauf verwenden."
+
+#: billie-io-payment-gateway.php:775
+msgid "Payment via Billie.io <b>NOT</b> successful."
+msgstr "Zahlung über Billie.io <b>NICHT</b> erfolgreich."
+
+#: billie-io-payment-gateway.php:775
+msgid "At"
+msgstr "Am"
+
+#: billie-io-payment-gateway.php:775
+msgid "Reason"
+msgstr "Grund"
+
+#: billie-io-payment-gateway.php:791
+msgid "Payment via Billie.io <b>successful</b>"
+msgstr "Payment via Billie.io <b>successful</b>."
+
+#: billie-io-payment-gateway.php:792
+msgid "IBAN"
+msgstr "IBAN"
+
+#: billie-io-payment-gateway.php:792
+msgid "BIC"
+msgstr "BIC"
+
+#: billie-io-payment-gateway.php:793
+msgid "Duration"
+msgstr "Laufzeit"
+
+#: billie-io-payment-gateway.php:821
+msgid ""
+"Unfortunately the payment method Billie.io cannot be used for this purchase."
+"<br />Please select another payment method."
+msgstr ""
+"Leider kann die Zahlungsmethode Billie.io für diesen Kauf nicht verwendet "
+"werden.<br />Bitte wählen Sie eine andere Zahlungsmethode."
+
+#: billie-io-payment-gateway.php:832
+msgid "Error:</b> Unfortunately an error has occurred"
+msgstr "Fehler:</b> Leider ist ein Fehler aufgetreten"
